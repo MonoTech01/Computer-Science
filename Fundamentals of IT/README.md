@@ -1,3 +1,3 @@
-## Unlocking the Building Blocks of Computer Science
+## Computer Science Essentials: Laying the Groundwork
 
-This repository, Fundamentals-of-IT, houses my meticulously crafted study notes for my Computer Science 102 class. My essential guide to mastering the core principles of CS.
+This repository, Fundamentals-of-IT, contains my meticulously crafted study notes for my foundational Computer Science class. Use these notes as your essential guide to mastering the core principles of CS.
