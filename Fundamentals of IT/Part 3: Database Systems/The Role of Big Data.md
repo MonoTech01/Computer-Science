@@ -3,6 +3,7 @@
 ## What Is Big Data?
 - **Definition**: Vast amounts of digital information available for analysis, encompassing everything from online comments to personal data.
 - **Historical Context**: Transition from limited physical data (libraries, cassettes) to expansive digital information over the past 30 years due to the internet.
+- **Example**: Social Media.
 
 ## Analyzing Big Data
 - **Challenges**: The immense volume of data makes analysis complex.
