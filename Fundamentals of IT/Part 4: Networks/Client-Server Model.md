@@ -1,4 +1,4 @@
-# Client-Server Network
+# Client-Server Model
 
 ## Definition
 
