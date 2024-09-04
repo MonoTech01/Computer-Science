@@ -80,8 +80,3 @@
   - Megabyte (MB): $2^{20}$ bytes.
   - Gigabyte (GB): $2^{30}$ bytes.
   - Terabyte (TB): $2^{40}$ bytes.
-
-## Practical View on Binary Information
-
-- **Storage Capacity**:
-  - Descriptions in bytes and their multiples are used for hard drives, RAM, and other storage media.
