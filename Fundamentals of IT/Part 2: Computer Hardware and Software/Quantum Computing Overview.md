@@ -90,6 +90,4 @@ Several tech giants are leading the charge in developing quantum computers:
 
 ## The Future of Quantum Computing
 
-Quantum computing holds promise for solving problems currently beyond the reach of classical computers. Its ability to process vast amounts of data quickly and accurately could lead to breakthroughs in science, technology, and industry.
-
-As technology advances and becomes more accessible, quantum computing will likely play an increasingly important role in shaping our future, offering new solutions to some of the world's most challenging problems.
+Quantum computing holds promise for solving problems currently beyond the reach of classical computers. Its ability to process vast amounts of data quickly and accurately could lead to breakthroughs in science, technology, and industry. As technology advances and becomes more accessible, quantum computing will likely play an increasingly important role in shaping our future, offering new solutions to some of the world's most challenging problems.
