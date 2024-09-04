@@ -1,11 +1,5 @@
 # Info Systems Concepts
 
-## What is an Information System?
-- **Definition**: 
-  - Software that organizes and analyzes data.
-  - **Purpose**: Transforms raw data into useful information for decision making.
-  - **Difference**: Data are basic values or facts; information is organized data used to answer questions and solve problems.
-
 ## General Purpose vs. Specialized Information Systems
 
 ### General Purpose Information Systems
