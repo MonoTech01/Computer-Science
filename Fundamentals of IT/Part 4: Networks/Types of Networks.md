@@ -1,6 +1,6 @@
-# LAN, WAN, WLAN, MAN, SAN, PAN, EPN & VPN
-
 # Types of Computer Networks
+
+LAN, WAN, WLAN, MAN, SAN, PAN, EPN & VPN
 
 ## Classification
 
