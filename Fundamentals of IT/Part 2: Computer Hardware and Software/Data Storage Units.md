@@ -3,7 +3,6 @@
 ## Introduction
 
 * **Data Storage Units:**  Units used to measure the amount of digital data that can be stored on a device or in a file.
-* **Foundation:** All electronic data is composed of binary digits (bits) represented as 0s and 1s.
 
 ### Bits
 
