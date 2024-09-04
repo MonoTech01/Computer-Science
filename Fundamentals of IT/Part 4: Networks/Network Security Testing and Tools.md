@@ -1,8 +1,6 @@
 # Network Security Testing and Tools
 
-## What is Network Security?
-
-* **Definition:** Protecting network infrastructure and data from various threats, including unauthorized access, malicious use, faults, tampering, destruction, and disclosure.
+Protecting network infrastructure and data from various threats, including unauthorized access, malicious use, faults, tampering, destruction, and disclosure.
 
 ## Network Security Testing
 
