@@ -1,13 +1,10 @@
 
 # The Internet: A Deep Dive
 
-## What is the Internet?
+## The Internet - Review
 
 * **Definition:** A global system of interconnected computer networks facilitating communication and data exchange.
 * **Key Features:** Decentralized, diverse network technologies, open communication protocols.
-
-## History
-
 * **ARPANET (1969):** The precursor to the internet, a military-funded project focused on resilient communication.
 * **NSFNET (1981):** A network for academic institutions, eventually evolving into the modern internet.
 
