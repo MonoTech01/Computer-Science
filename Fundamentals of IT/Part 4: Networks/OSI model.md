@@ -8,14 +8,14 @@
 
 ## Seven Layers of the OSI Model
 
-1. **Application Layer:**
+7. **Application Layer:**
     * Interface for user applications (e.g., web browsers, email clients).
     * Provides services to applications outside the OSI model.
     * Handles tasks like data synchronization, error recovery, and resource availability.
-2. **Presentation Layer:**
+6. **Presentation Layer:**
     * Formats data for presentation to the user (e.g., encryption, compression).
     * Ensures data is presented in a readable format.
-3. **Session Layer:**
+5. **Session Layer:**
     * Manages communication sessions between devices.
     * Handles session setup, data exchange, and termination.
     * Implements flow control to prevent data overload.
@@ -23,13 +23,13 @@
     * Ensures reliable end-to-end data transmission.
     * Provides error checking and recovery mechanisms.
     * Segments data into packets and manages their delivery.
-5. **Network Layer:**
+3. **Network Layer:**
     * Determines the optimal path for data packets across the network (routing).
     * Addresses packets and manages network congestion.
-6. **Data Link Layer:**
+2. **Data Link Layer:**
     * Provides error-free transmission between adjacent nodes on a network.
     * Handles MAC (Media Access Control) addressing and frame synchronization.
-7. **Physical Layer:**
+1. **Physical Layer:**
     * Defines the physical characteristics of the network (e.g., cables, connectors, signaling).
     * Transmits raw bits over the physical medium.
 
