@@ -39,6 +39,7 @@
 * **Components:**
     * **Protocol:** (e.g., http, https)
     * **Domain Name:** (e.g., google.com)
+    *  **Top-level domain name:** .com
     * **Path:** (e.g., /search)
 * **Function:**  Provides a standardized way to access web pages and other resources.
 
