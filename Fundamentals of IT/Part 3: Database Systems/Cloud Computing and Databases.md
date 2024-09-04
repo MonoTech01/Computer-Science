@@ -1,5 +1,4 @@
-# Cloud Computing
-
+# Cloud Computing and Databases
 ## Where Are Your Files?
 
 - **Scenario**: You save an e-mail draft on your laptop, later edit it on your phone, and send it from the coffee shop.
