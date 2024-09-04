@@ -1,5 +1,5 @@
 
-# The Internet: A Deep Dive
+# The Internet
 
 ## The Internet - Review
 
