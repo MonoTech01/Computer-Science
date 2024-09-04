@@ -77,3 +77,38 @@ As more devices become interconnected and more data is transferred over networks
 
 ### Mobile Security
 With more business operations conducted on mobile devices, securing these devices against threats is critical.
+
+# Implementing Network Security
+
+## Delivery Methods
+
+* **Hardware Appliances:** Dedicated devices that perform specific security functions (e.g., firewalls, intrusion prevention systems). Can be in-line or out-of-line.
+* **Software:**  Security programs installed on servers or PCs to provide protection (e.g., antivirus, endpoint security).
+* **Cloud Services (Security as a Service):**  Network security functions outsourced to a third-party provider (e.g., cloud-based firewalls, DDoS protection).
+
+## Types of Network Security
+
+### 1. Network-Level Security
+
+* **Distributed Denial of Service (DDoS) Prevention:**  Filters out malicious traffic to prevent DDoS attacks that overwhelm networks.
+* **Firewalls:**  Control network traffic, blocking unauthorized access based on rules and configurations.
+* **Intrusion Prevention/Detection Systems (IPS/IDS):**  Monitor network activity for suspicious behavior, block intrusions (IPS), or alert administrators (IDS).
+* **Virtual Private Networks (VPNs):**  Create secure connections over public networks, protecting data transmission for remote users.
+* **Network Access Control (NAC):**  Controls device access to the network based on predefined policies, ensuring only authorized devices connect.
+* **Secured Network Equipment:**  Routers and switches with hardened configurations to prevent unauthorized access and attacks.
+
+### 2. Data-Level Security
+
+* **Data Loss Prevention (DLP):**  Prevents sensitive data from leaving the network through monitoring and blocking mechanisms.
+* **Anti-Malware:**  Detects and removes malicious software (viruses, spyware, etc.) from network devices.
+
+### 3. Application-Level Security
+
+* **Email Gateway/Firewall:**  Filters spam, phishing emails, and malicious attachments, protecting email communications.
+* **Web Content Filter:**  Restricts access to inappropriate or malicious websites based on categories and policies. 
+
+### 4. Management and Policy
+
+* **Security Information and Event Management (SIEM):**  Collects and analyzes security logs from multiple systems to detect and respond to threats.
+* **Access Control Policies:**  Define rules for user access to network resources based on roles and permissions.
+* **Administrative Policies:**  Establish guidelines for password management, user behavior, and software usage to enhance security.
