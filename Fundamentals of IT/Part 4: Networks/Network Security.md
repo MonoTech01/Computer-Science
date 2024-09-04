@@ -8,7 +8,7 @@ Network security involves safeguarding the network infrastructure, securing the 
 
 ## Fundamentals of Network Security
 
-## At the core of network security are three essential principles, often referred to as the **CIA Triad**:
+## At the core of network security are three essential principles, often referred to as the **CIA Triad**
  
 ### 1. Confidentiality
 - **Definition**: Ensuring that data is accessible only to those authorized to access it.
