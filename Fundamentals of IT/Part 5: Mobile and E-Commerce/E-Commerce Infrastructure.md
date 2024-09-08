@@ -1,8 +1,5 @@
 # E-Commerce Infrastructure
 
-
-**E-Commerce Infrastructure:**
-
 E-commerce infrastructure relies on computer-based systems and comprises both hardware and software components.
 
 **Hardware Components:**
