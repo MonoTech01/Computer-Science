@@ -1,4 +1,4 @@
-# E-Business: Concise Notes
+# E-Business
 
 **Definition:** Conducting business activities electronically, primarily via the internet (e.g., buying/selling, customer service, communication).
 
