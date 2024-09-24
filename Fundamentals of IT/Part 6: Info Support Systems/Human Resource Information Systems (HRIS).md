@@ -1,6 +1,4 @@
 # Human Resource Information Systems (HRIS)
-
-## Overview
 - **Definition**: HRIS, or Human Resource Information Systems, are specialized information systems designed to assist HR professionals with various tasks related to employee management.
 - **Purpose**: Streamline HR processes, reduce costs, and facilitate managerial decision-making.
 
